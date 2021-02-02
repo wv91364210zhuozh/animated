@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/animatedjs/animated#readme",
   "dependencies": {
-    "invariant": "^2.2.0",
+    "invariant": "^2.2.4",
     "normalize-css-color": "^1.0.1"
   },
   "peerDependencies": {
